@@ -14,6 +14,7 @@ from datetime import date
 from collections import defaultdict
 from bs4 import BeautifulSoup
 import html2text
+import re
 import json
 import os
 
@@ -40,11 +41,14 @@ def get_tiph(api, todaydate=None):
     shows = api.query_shows(month=month, day=day)
     sba = defaultdict(list)
     for show in shows['response']['data']:
+        if(show['artistid'] == -1):
+            show['artistid'] = 10
         sba[show['artistid']].append(show)
     with open("./tiph.md", "w") as sf:
         today_str = today.strftime("%B %d")
         sf.write(f"# Today in Phishstory: {today_str}")
         sf.write("  \nBrought to you by tiph-bot. Beep.  \n")
+        sf.write("\n---  \n")
         for artistid, shows in sorted(sba.items()):
             if(len(shows) > 0):
                 artist = artists['response']['data'][str(artistid)]
@@ -93,6 +97,8 @@ def parse_setlistdata(setlistdata):
     soup = BeautifulSoup(setlistdata, 'html.parser')
     for sup in soup.find_all('sup'):
         sup.attrs = {}
+        s = re.search(r"\d+", sup.string)
+        sup.string = f"^{s.group(0)}^"
     for link in soup.find_all('a', class_='setlist-song'):
         if link.attrs.get('title'):
             del link.attrs['title']

@@ -28,6 +28,11 @@
                 "artistid": 9,
                 "name": "Page McConnell",
                 "link": "http:\/\/phish.net\/setlists\/page"
+            },
+            "10": {
+                "artistid": 9,
+                "name": "Other",
+                "link": "http:\/\/phish.net\/setlists"
             }
         }
     }
