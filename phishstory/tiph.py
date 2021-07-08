@@ -175,7 +175,7 @@ class TIPH:
                             sf.write(
                                 f"  \n**Show Notes:**  \n  \n{h2t.handle(setlist['setlistnotes'])}\n  \n")
                             if artist['name'] == 'Phish':
-                                listen_now = "fhttps://phish.in/{setlist['showdate']}"
+                                listen_now = f"https://phish.in/{setlist['showdate']}"
                                 sf.write(
                                     f"  \nListen now at [Phish.in!]({listen_now})  \n")
                             sf.write(horizontal_rule)
