@@ -172,8 +172,10 @@ class TIPH:
                                 f"calling get_jamchart({show['showid']})")
                             sf.write(
                                 f"  \n {self.get_jamchart(show['showid'])}")
+                            self.logger.info(
+                                f"calling parse_setlistnotes for {long_date}")
                             sf.write(
-                                f"  \n**Show Notes:**  \n  \n{h2t.handle(setlist['setlistnotes'])}\n  \n")
+                                f"  \n**Show Notes:**  \n  \n{self.parse_setlistnotes(setlist['setlistnotes'])}\n  \n")
                             if artist['name'] == 'Phish':
                                 listen_now = f"https://phish.in/{setlist['showdate']}"
                                 sf.write(
@@ -234,6 +236,26 @@ class TIPH:
         for link in soup.find_all('a', class_='setlist-song'):
             if link.attrs.get('title'):
                 del link.attrs['title']
+
+        h2t = html2text.HTML2Text()
+        h2t.protect_links = True
+        h2t.wrap_links = False
+        h2t.body_width = 80
+        return h2t.handle(soup.prettify(formatter='html5'))
+
+    def parse_setlistnotes(self, setlistnotes):
+        """
+        Use BeautifulSoup to parse out the via phish.net references
+        and HTML2Text to massage the html and convert to Markdown for 
+        reddit submissions.
+        """
+        soup = BeautifulSoup(setlistnotes, 'html.parser')
+
+        for link in soup.find_all('a', href=True):
+            if link.get_text() == 'phish.net':
+                link.extract()
+
+        soup.text.replace('via', '')
 
         h2t = html2text.HTML2Text()
         h2t.protect_links = True
@@ -305,6 +327,6 @@ if __name__ == "__main__":
     tiph = TIPH()
     tiph.parse_args()
     if tiph.skip_tiph is False:
-        tiph.get_tiph(PhishNetAPI())
+        tiph.get_tiph(PhishNetAPI(tiph.creds['apikey']))
     if tiph.skip_reddit is False:
         tiph.post_reddit()

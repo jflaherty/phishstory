@@ -1,4 +1,4 @@
-  # Today In Phishstory - July 8th  
+  # Today In Phishstory - July 11th  
 Brought to you by tiph-bot. Beep.  
   
 All data extracted via [The Phishnet API](https://api.phish.net).  
@@ -6,156 +6,19 @@ All data extracted via [The Phishnet API](https://api.phish.net).
 ---  
 ## [Phish](http://phish.net/setlists/phish)    
 ---  
-**[Phish](http://phish.net/setlists/phish)**, Friday 07/08/2016 (5 years ago) **[Xfinity Center](<https://phish.net/venue/1306/Xfinity_Center>), Mansfield, MA, USA**
+**[Phish](http://phish.net/setlists/phish)**, Friday 07/11/2014 (7 years ago) **[Randall's Island](<https://phish.net/venue/1307/Randall%27s_Island>), New York, NY, USA**
 
   
-[Gap Chart](https://phish.net/setlists/gap-chart/phish-july-08-2016-xfinity-center-mansfield-ma-usa.html), Tour: 2016 Summer Tour
+[Gap Chart](https://phish.net/setlists/gap-chart/phish-july-11-2014-randalls-island-new-york-ny-usa.html), Tour: 2014 Summer
   
   
- Set 1  : [ Party Time ](<https://phish.net/song/party-time>) > [ 46 Days ](<https://phish.net/song/46-days>) , [ Poor Heart ](<https://phish.net/song/poor-heart>) , [ The Dogs ](<https://phish.net/song/the-dogs>) , [ Bathtub Gin ](<https://phish.net/song/bathtub-gin>) , [ Fast Enough for You ](<https://phish.net/song/fast-enough-for-you>) , [ How Many People Are You ](<https://phish.net/song/how-many-people-are-you>) , [ Strange Design ](<https://phish.net/song/strange-design>) , [ Fuego ](<https://phish.net/song/fuego>) , [ Cities ](<https://phish.net/song/cities>) ^1  , [ Space Oddity ](<https://phish.net/song/space-oddity>)
+ Set 1  : [ The Moma Dance ](<https://phish.net/song/the-moma-dance>) , [ Kill Devil Falls ](<https://phish.net/song/kill-devil-falls>) > [ Ya Mar ](<https://phish.net/song/ya-mar>) , [ Bathtub Gin ](<https://phish.net/song/bathtub-gin>) , [ 555 ](<https://phish.net/song/555>) > [ Rift ](<https://phish.net/song/rift>) > [ Sample in a Jar ](<https://phish.net/song/sample-in-a-jar>) > [ The Wedge ](<https://phish.net/song/the-wedge>) , [ Waiting All Night ](<https://phish.net/song/waiting-all-night>) , [ Stash ](<https://phish.net/song/stash>)
 
-Set 2  : [ Ghost ](<https://phish.net/song/ghost>) > [ Light ](<https://phish.net/song/light>) > [ Wolfman's Brother ](<https://phish.net/song/wolfmans-brother>) ^2  , [ Chalk Dust Torture ](<https://phish.net/song/chalk-dust-torture>) , [ Saw It Again ](<https://phish.net/song/saw-it-again>) > [ Back on the Train ](<https://phish.net/song/back-on-the-train>) > [ Slave to the Traffic Light ](<https://phish.net/song/slave-to-the-traffic-light>)
+Set 2  : [ Steam ](<https://phish.net/song/steam>) > [ Down with Disease ](<https://phish.net/song/down-with-disease>) ^1  -> [ Golden Age ](<https://phish.net/song/golden-age>) > [ Limb By Limb ](<https://phish.net/song/limb-by-limb>) > [ Fuego ](<https://phish.net/song/fuego>) > [ David Bowie ](<https://phish.net/song/david-bowie>) , [ Cavern ](<https://phish.net/song/cavern>)
 
-Encore  : [ I Am the Walrus ](<https://phish.net/song/i-am-the-walrus>)
-
-[1] Trey broke a string and switched guitars mid-song, also introducing his
-guitar tech, Brian Brown. Trey then switched to Marimba Lumina and Mike played
-Trey's guitar.  
-[2] Vocal jam, during which the PA cut out and the band left the stage.
-Unfinished.  
-
-
-  
-  
- **Jamchart Notes:**
-
-  
-[Cities](<https://phish.net/jamcharts/song/cities>) \- Early technical issues, a Brian Brown introduction, and a guitar switch do nothing to deter the band from taking "Cities" on a journey across the globe. Some strong but typical jamming leads to more instruments switching and the jam evolves / devolves into highly percussive near free-form jazz.   
-  
-[Light](<https://phish.net/jamcharts/song/light>) \- Amusing vocal challenges and a slight return to atonal phrasing by Trey at first. Then this excellent jam courses through hard charging rock, start-stop "woo"-infused play, and funky, "Manteca"-like action. Serious sonic exploration as each player deploys an instrumental weapon of choice, before finally giving way to cathartic space and the rise of the "Wolfman."   
-
-  
-**Show Notes:**  
-  
-Eine kleine Nachtmusik was teased prior to Party Time. During Cities, Trey broke
-a string, switched guitars, and introduced his guitar tech, Brian Brown; Trey
-then switched to Marimba Lumina while Mike played Trey's guitar. Wolfman's
-contained a vocal jam, during which the PA cut out and the band left the stage.
-Wolfman's was unfinished, and after several minutes the band resumed with CDT.  
-via [phish.net][1]
-
-   [1]: <https://phish.net>
-
-
-  
-  
-Listen now at [Phish.in!](fhttps://phish.in/{setlist['showdate']})  
-  
----  
-**[Phish](http://phish.net/setlists/phish)**, Tuesday 07/08/2014 (7 years ago)  **[The Mann][2], Philadelphia, PA, USA**
-
-   [2]: <https://phish.net/venue/213/The_Mann_Center_for_the_Performing_Arts>
-
-  
-[Gap Chart](https://phish.net/setlists/gap-chart/phish-july-08-2014-the-mann-center-for-the-performing-arts-philadelphia-pa-usa.html), Tour: 2014 Summer
-  
-  
- Set 1  : [ Axilla ](<https://phish.net/song/axilla>) , [ Gumbo ](<https://phish.net/song/gumbo>) > [ Taste ](<https://phish.net/song/taste>) , [ 555 ](<https://phish.net/song/555>) , [ Tube ](<https://phish.net/song/tube>) , [ Halfway to the Moon ](<https://phish.net/song/halfway-to-the-moon>) , [ Camel Walk ](<https://phish.net/song/camel-walk>) , [ Sparkle ](<https://phish.net/song/sparkle>) , [ Halley's Comet ](<https://phish.net/song/halleys-comet>) > [ It's Ice ](<https://phish.net/song/its-ice>) , [ Ocelot ](<https://phish.net/song/ocelot>) , [ Walls of the Cave ](<https://phish.net/song/walls-of-the-cave>)
-
-Set 2  : [ 46 Days ](<https://phish.net/song/46-days>) > [ Fuego ](<https://phish.net/song/fuego>) > [ The Line ](<https://phish.net/song/the-line>) , [ Backwards Down the Number Line ](<https://phish.net/song/backwards-down-the-number-line>) > [ Tweezer ](<https://phish.net/song/tweezer>) -> [ Ghost ](<https://phish.net/song/ghost>) > [ Also Sprach Zarathustra ](<https://phish.net/song/also-sprach-zarathustra>) > [ Harry Hood ](<https://phish.net/song/harry-hood>) > [ Tweezer Reprise ](<https://phish.net/song/tweezer-reprise>)
-
-Encore  : [ Possum ](<https://phish.net/song/possum>)
-
-
-  
-  
- **Jamchart Notes:**
-
-  
-[Tube](<https://phish.net/jamcharts/song/tube>) \- Mike gets down on this right away, Trey picks up quickly, and the whole jam locks in for several minutes.   
-  
-[Fuego](<https://phish.net/jamcharts/song/fuego>) \- Like the SPAC "Fuego" this jam begins with some quieter musings, followed by a couple of peaking sections. Then the jam turns rhythmic, funky, and almost jazz-like, with some nice Fish and Page, before finally dwindling to transition space.   
-  
-[Harry Hood](<https://phish.net/jamcharts/song/harry-hood>) \- This "Hood" has a really great early section, especially between 5:25 - 9:25, where Mike, Page and Trey have this wonderful 3-way musical conversation, while Fish scales the percussion down to a very subtle but key rhythmic foundation.   
-
-  
-**Show Notes:**  
-  
-The start of this show was delayed due to inclement weather. Fuego contained a
-Godzilla tease from Trey and a Cars Trucks Buses tease from Mike.  
-via [phish.net][3]
-
-   [3]: <https://phish.net>
-
-
-  
-  
-Listen now at [Phish.in!](fhttps://phish.in/{setlist['showdate']})  
-  
----  
-**[Phish](http://phish.net/setlists/phish)**, Sunday 07/08/2012 (9 years ago)  **[SPAC][4], Saratoga Springs, NY, USA**
-
-   [4]: <https://phish.net/venue/220/Saratoga_Performing_Arts_Center>
-
-  
-[Gap Chart](https://phish.net/setlists/gap-chart/phish-july-08-2012-saratoga-performing-arts-center-saratoga-springs-ny-usa.html), Tour: 2012 Early Summer Tour
-  
-  
- Set 1  : [ AC/DC Bag ](<https://phish.net/song/acdc-bag>) > [ My Soul ](<https://phish.net/song/my-soul>) , [ Camel Walk ](<https://phish.net/song/camel-walk>) , [ Sample in a Jar ](<https://phish.net/song/sample-in-a-jar>) , [ Wilson ](<https://phish.net/song/wilson>) > [ Party Time ](<https://phish.net/song/party-time>) , [ Gumbo ](<https://phish.net/song/gumbo>) , [ Nellie Kane ](<https://phish.net/song/nellie-kane>) , [ Driver ](<https://phish.net/song/driver>) , [ Foam ](<https://phish.net/song/foam>) , [ If I Could ](<https://phish.net/song/if-i-could>) , [ Split Open and Melt ](<https://phish.net/song/split-open-and-melt>) > [ La Grange ](<https://phish.net/song/la-grange>)
-
-Set 2  : [ Axilla ](<https://phish.net/song/axilla>) > [ Light ](<https://phish.net/song/light>) > [ Twist ](<https://phish.net/song/twist>) > [ Kill Devil Falls ](<https://phish.net/song/kill-devil-falls>) -> [ My Friend, My Friend ](<https://phish.net/song/my-friend-my-friend>) ^1  > [ Swept Away ](<https://phish.net/song/swept-away>) > [ Steep ](<https://phish.net/song/steep>) > [ Piper ](<https://phish.net/song/piper>) > [ Free ](<https://phish.net/song/free>) > [ Kung ](<https://phish.net/song/kung>) > [ Harry Hood ](<https://phish.net/song/harry-hood>) > [ Cavern ](<https://phish.net/song/cavern>) > [ David Bowie ](<https://phish.net/song/david-bowie>)
-
-Encore  : [ You Enjoy Myself ](<https://phish.net/song/you-enjoy-myself>)
-
-[1] No "Myfe" ending.  
-
-
-  
-  
- **Jamchart Notes:**
-
-  
-[Party Time](<https://phish.net/jamcharts/song/party-time>) \- Really solid and extended straightforward jamming with great Page and Trey.   
-  
-[Split Open and Melt](<https://phish.net/jamcharts/song/split-open-and-melt>) \- One could argue that they dick around and waste several minutes in the land of "meh." But after the 8:00 mark, this one suddenly gets pretty damn solid with some good old fashioned tension and dissonance. Hell, even throw in a little chaos.   
-  
-[Kill Devil Falls](<https://phish.net/jamcharts/song/kill-devil-falls>) \- Intense "Type I" jamming continues after the final lyrics before dipping into some darker playing that quickly brightens before ending with a -> to "MFMF."   
-  
-[Piper](<https://phish.net/jamcharts/song/piper>) \- Multi-dimensional, very high quality jamming. "Piper" has come back a long way since '09. > to "Free."   
-  
-[Harry Hood](<https://phish.net/jamcharts/song/harry-hood>) \- A very well played version overall, but the ending section in particular is extremely powerful.   
-
-  
-**Show Notes:**  
-  
-La Grange was played for the first time since [September 22, 1999][5] (301 shows). Twist contained a brief In-A-Gadda-Da-Vida tease from Trey, Kill Devil Falls included a _Jeopardy!_ theme tease, and Hood contained a Kung quote. My Friend My Friend did not contain the "Myfe" ending. YEM contained a Flashlight tease from Mike and teases of the theme to _Sanford and Son_ in the vocal jam.  
-via [phish.net][6]
-
-   [5]: <http://phish.net/setlists/?d=1999-09-22>
-   [6]: <https://phish.net>
-
-
-  
-  
-Listen now at [Phish.in!](fhttps://phish.in/{setlist['showdate']})  
-  
----  
-**[Phish](http://phish.net/setlists/phish)**, Tuesday 07/08/2003 (18 years ago)  **[Coors Amphitheatre][7], Chula Vista, CA, USA**
-
-   [7]: <https://phish.net/venue/245/Coors_Amphitheatre>
-
-  
-[Gap Chart](https://phish.net/setlists/gap-chart/phish-july-08-2003-coors-amphitheatre-chula-vista-ca-usa.html), Tour: 2003 Summer Tour
-  
-  
- Set 1  : [ Guyute ](<https://phish.net/song/guyute>) , [ Horn ](<https://phish.net/song/horn>) > [ My Sweet One ](<https://phish.net/song/my-sweet-one>) > [ Tweezer ](<https://phish.net/song/tweezer>) > [ Limb By Limb ](<https://phish.net/song/limb-by-limb>) , [ Fast Enough for You ](<https://phish.net/song/fast-enough-for-you>) , [ Frankie Says ](<https://phish.net/song/frankie-says>) > [ Taste ](<https://phish.net/song/taste>)
-
-Set 2  : [ Down with Disease ](<https://phish.net/song/down-with-disease>) ^1  , [ Vultures ](<https://phish.net/song/vultures>) , [ Secret Smile ](<https://phish.net/song/secret-smile>) ^2  , [ Harry Hood ](<https://phish.net/song/harry-hood>) > [ Carini ](<https://phish.net/song/carini>) , [ Discern ](<https://phish.net/song/discern>) ^2  , [ Waste ](<https://phish.net/song/waste>)
-
-Encore  : [ Bouncing Around the Room ](<https://phish.net/song/bouncing-around-the-room>) > [ Tweezer Reprise ](<https://phish.net/song/tweezer-reprise>)
+Encore  : [ Character Zero ](<https://phish.net/song/character-zero>)
 
 [1] Unfinished.  
-[2] Phish debut.  
 
 
   
@@ -163,41 +26,37 @@ Encore  : [ Bouncing Around the Room ](<https://phish.net/song/bouncing-around-t
  **Jamchart Notes:**
 
   
-[Down with Disease](<https://phish.net/jamcharts/song/down-with-disease>) \- Very "Type II" version in which Trey seems to play a less dominant role mid-jam, letting Mike and Page funk it up.   
+[Bathtub Gin](<https://phish.net/jamcharts/song/bathtub-gin>) \- A high intensity "Type I" jam breaks away at 9:45 into some low-key exploration. Page adds color as he switches keyboards, and Trey reignites the intensity with some moderate "hose." Finally, the jam gradually ramps down, closing with a return to "Gin."   
   
-[Harry Hood](<https://phish.net/jamcharts/song/harry-hood>) \- "Type II" version leaves "Hood" at 9:25, breaks into a low-key groove that gets rocking, then dissonant, and heads home.   
+[Down with Disease](<https://phish.net/jamcharts/song/down-with-disease>) \- The jam breaks at 8:00 into some funky stretching, but Trey quickly seizes on a great riff, which the band coalesces around. As the boys bring the jam up to celebration mode, there is some brief "Woo" jamming before it settles to quieter play with great Page.   
 
   
 **Show Notes:**  
   
-Limb By Limb contained a DEG tease from Trey. Disease was unfinished. This show
-featured the Phish debuts of Secret Smile and Discern. Hood included a Magilla
-tease from Page.  
-via [phish.net][8]
-
-   [8]: <https://phish.net>
+Trey teased the _Munsters_ theme in Stash. DWD was unfinished.  
+via
 
 
   
   
-Listen now at [Phish.in!](fhttps://phish.in/{setlist['showdate']})  
+Listen now at [Phish.in!](https://phish.in/2014-07-11)  
   
 ---  
-**[Phish](http://phish.net/setlists/phish)**, Saturday 07/08/2000 (21 years ago)  **[Alpine Valley][9], East Troy, WI, USA**
+**[Phish](http://phish.net/setlists/phish)**, Tuesday 07/11/2000 (21 years ago)  **[Deer Creek][1], Noblesville, IN, USA**
 
-   [9]: <https://phish.net/venue/3/Alpine_Valley_Music_Theatre>
+   [1]: <https://phish.net/venue/401/Deer_Creek_Music_Center>
 
   
-[Gap Chart](https://phish.net/setlists/gap-chart/phish-july-08-2000-alpine-valley-music-theatre-east-troy-wi-usa.html), Tour: 2000 Summer U.S. Tour
+[Gap Chart](https://phish.net/setlists/gap-chart/phish-july-11-2000-deer-creek-music-center-noblesville-in-usa.html), Tour: 2000 Summer U.S. Tour
   
   
- Set 1  : [ Punch You in the Eye ](<https://phish.net/song/punch-you-in-the-eye>) > [ NICU ](<https://phish.net/song/nicu>) > [ My Soul ](<https://phish.net/song/my-soul>) , [ Poor Heart ](<https://phish.net/song/poor-heart>) , [ Wolfman's Brother ](<https://phish.net/song/wolfmans-brother>) , [ First Tube ](<https://phish.net/song/first-tube>) , [ Llama ](<https://phish.net/song/llama>) , [ Guyute ](<https://phish.net/song/guyute>) , [ Run Like an Antelope ](<https://phish.net/song/run-like-an-antelope>)
+ Set 1  : [ Ya Mar ](<https://phish.net/song/ya-mar>) , [ The Moma Dance ](<https://phish.net/song/the-moma-dance>) , [ Uncle Pen ](<https://phish.net/song/uncle-pen>) , [ Drowned ](<https://phish.net/song/drowned>) , [ Chalk Dust Torture Reprise ](<https://phish.net/song/chalk-dust-torture-reprise>) > [ Chalk Dust Torture ](<https://phish.net/song/chalk-dust-torture>) , [ Theme From the Bottom ](<https://phish.net/song/theme-from-the-bottom>) > [ Cavern ](<https://phish.net/song/cavern>)
 
-Set 2  : [ Heavy Things ](<https://phish.net/song/heavy-things>) > [ Piper ](<https://phish.net/song/piper>) -> [ Rock and Roll ](<https://phish.net/song/rock-and-roll>) , [ Tweezer ](<https://phish.net/song/tweezer>) -> [ Walk Away ](<https://phish.net/song/walk-away>) , [ Twist ](<https://phish.net/song/twist>) , [ The Horse ](<https://phish.net/song/the-horse>) > [ Silent in the Morning ](<https://phish.net/song/silent-in-the-morning>) , [ Possum ](<https://phish.net/song/possum>)
+Set 2  : [ Also Sprach Zarathustra ](<https://phish.net/song/also-sprach-zarathustra>) > [ Down with Disease ](<https://phish.net/song/down-with-disease>) -> [ Moby Dick ](<https://phish.net/song/moby-dick>) > [ Down with Disease ](<https://phish.net/song/down-with-disease>) > [ Runaway Jim ](<https://phish.net/song/runaway-jim>) -> [ Moby Dick ](<https://phish.net/song/moby-dick>) , [ Back on the Train ](<https://phish.net/song/back-on-the-train>) -> [ Moby Dick ](<https://phish.net/song/moby-dick>) > [ Back on the Train ](<https://phish.net/song/back-on-the-train>) , [ Harry Hood ](<https://phish.net/song/harry-hood>) > [ Moby Dick ](<https://phish.net/song/moby-dick>) , [ Hold Your Head Up ](<https://phish.net/song/hold-your-head-up>) > [ Terrapin ](<https://phish.net/song/terrapin>) > [ Hold Your Head Up ](<https://phish.net/song/hold-your-head-up>) > [ Moby Dick ](<https://phish.net/song/moby-dick>) ^1  > [ Hold Your Head Up ](<https://phish.net/song/hold-your-head-up>) , [ Character Zero ](<https://phish.net/song/character-zero>)
 
-Encore  : [ Suzy Greenberg ](<https://phish.net/song/suzy-greenberg>) ^1  > [ Tweezer Reprise ](<https://phish.net/song/tweezer-reprise>)
+Encore  : [ First Tube ](<https://phish.net/song/first-tube>) > [ Moby Dick ](<https://phish.net/song/moby-dick>) > [ Chalk Dust Torture Reprise ](<https://phish.net/song/chalk-dust-torture-reprise>)
 
-[1] The band skipped the second verse.  
+[1] Trey on drums and Fish on vacuum.  
 
 
   
@@ -205,42 +64,45 @@ Encore  : [ Suzy Greenberg ](<https://phish.net/song/suzy-greenberg>) ^1  > [ Tw
  **Jamchart Notes:**
 
   
-[Piper](<https://phish.net/jamcharts/song/piper>) \- Super-charged "Type I" bridge jam between verses leads to pulsing groove typical of many '00 "Pipers." Great segue into "Rock and Roll."   
+[Drowned](<https://phish.net/jamcharts/song/drowned>) \- A very cool jam with great Fish and Mike in this upbeat, funky version that transitions into "Chalkdust Torture Reprise."   
   
-[Tweezer](<https://phish.net/jamcharts/song/tweezer>) \- Segues nicely into "Walk Away."   
+[Chalk Dust Torture Reprise](<https://phish.net/jamcharts/song/chalk-dust-torture-reprise>) \- Fun little ditty, and very unlike big brother "CDT" makes only its second appearance ever, transitioning in through a series of stops at the end of a funky version of "Drowned." The third and final version (so far) of "CDT Reprise" was played as final encore (following "Moby Dick," of course) at this thematic show.   
+  
+[Chalk Dust Torture](<https://phish.net/jamcharts/song/chalk-dust-torture>) \- Raging version follows the extremely rare appearance (2nd performance ever) of "Chalk Dust Torture Reprise."   
+  
+[Also Sprach Zarathustra](<https://phish.net/jamcharts/song/also-sprach-zarathustra>) \- A quintessential version of "2001" that kicks off an all-timer of a second set. No "Moby Dick" teases needed, Trey and Mike are killer in the second jam.   
 
   
 **Show Notes:**  
   
-Antelope included Yakety Sax and Jibboo teases. The band skipped the second
-verse of Suzy. This show was officially released as _Live Phish 05_.  
-via [phish.net][10]
-
-   [10]: <https://phish.net>
+In keeping with the theme of the second set, Hood included a Moby Dick tease.
+Trey introduced Fish as "Russell Crowe" during Terrapin. The Moby Dick inside of
+the HYHU jam featured Trey on drums and Fish on vacuum. The Chalk Dust Reprise
+was akin to the version last played on December 10, 1994 (391 shows), with the
+band singing the words "Chalk Dust Torture" over varied music. At the end of the
+encore, Trey joked that, if anyone missed anything, they should read the book or
+see the movie. Trey also teased Moby Dick at the end of the encore's Chalk Dust
+Reprise. Prior to this show, Moby Dick had not been played since November 29,
+1997 (172 shows).  
+via
 
 
   
   
-Listen now at [Phish.in!](fhttps://phish.in/{setlist['showdate']})  
+Listen now at [Phish.in!](https://phish.in/2000-07-11)  
   
 ---  
-**[Phish](http://phish.net/setlists/phish)**, Thursday 07/08/1999 (22 years ago)  **[GTE Virginia Beach Amphitheater][11], Virginia Beach, VA, USA**
+**[Phish](http://phish.net/setlists/phish)**, Friday 07/11/1997 (24 years ago)  **[Doctor Music Festival][2], Escalarre, , Spain**
 
-   [11]: <https://phish.net/venue/407/GTE_Virginia_Beach_Amphitheater>
+   [2]: <https://phish.net/venue/509/Doctor_Music_Festival>
 
   
-[Gap Chart](https://phish.net/setlists/gap-chart/phish-july-08-1999-virginia-beach-amphitheater-virginia-beach-va-usa.html), Tour: 1999 Summer U.S. Tour
+[Gap Chart](https://phish.net/setlists/gap-chart/phish-july-11-1997-doctor-music-festival-escalarre-spain.html), Tour: 1997 Summer European Tour
   
   
- Set 1  : [ Julius ](<https://phish.net/song/julius>) , [ Fee ](<https://phish.net/song/fee>) -> [ Jam ](<https://phish.net/song/jam>) , [ Guyute ](<https://phish.net/song/guyute>) , [ Dirt ](<https://phish.net/song/dirt>) , [ Nellie Kane ](<https://phish.net/song/nellie-kane>) , [ Stash ](<https://phish.net/song/stash>) , [ Cavern ](<https://phish.net/song/cavern>)
+ Set 1  : [ Chalk Dust Torture ](<https://phish.net/song/chalk-dust-torture>) , [ Bouncing Around the Room ](<https://phish.net/song/bouncing-around-the-room>) , [ Stash ](<https://phish.net/song/stash>) , [ Beauty of My Dreams ](<https://phish.net/song/beauty-of-my-dreams>) , [ Wolfman's Brother ](<https://phish.net/song/wolfmans-brother>) > [ Johnny B. Goode ](<https://phish.net/song/johnny-b-goode>) > [ You Enjoy Myself ](<https://phish.net/song/you-enjoy-myself>)
 
-Set 2  : [ Birds of a Feather ](<https://phish.net/song/birds-of-a-feather>) ^1  > [ Prince Caspian ](<https://phish.net/song/prince-caspian>) > [ Jesus Just Left Chicago ](<https://phish.net/song/jesus-just-left-chicago>) , [ Saw It Again ](<https://phish.net/song/saw-it-again>) , [ Sleep ](<https://phish.net/song/sleep>) , [ Meatstick ](<https://phish.net/song/meatstick>) , [ Tube ](<https://phish.net/song/tube>) > [ Simple ](<https://phish.net/song/simple>) ^2 
-
-Encore  : [ Terrapin ](<https://phish.net/song/terrapin>) > [ Hold Your Head Up ](<https://phish.net/song/hold-your-head-up>) , [ Character Zero ](<https://phish.net/song/character-zero>)
-
-[1] Strange lyrics from Mike and Trey, including an Uno reference.  
-[2] Ended akin to Coil, with each member of the band leaving the stage until
-only Page was left.  
+Encore  : [ Character Zero ](<https://phish.net/song/character-zero>)
 
 
   
@@ -248,170 +110,166 @@ only Page was left.
  **Jamchart Notes:**
 
   
-[Fee](<https://phish.net/jamcharts/song/fee>) \- The outro sticks to the "Fee" framework until 9 minutes when Fish picks up the beat, leading to an upbeat segment filled with the blissfull, atmospheric style of jamming that is so representative of the '99 sound. Eventually returns to Earth at 20 minutes and winds down to close. In the realm of "Fee" jams, this weasel reigns supreme.   
-  
-[Jam](<https://phish.net/jamcharts/song/jam>) \- See Fee Jamming Chart.   
-  
-[Birds of a Feather](<https://phish.net/jamcharts/song/birds-of-a-feather>) \- At first a wide-ranging and quality "BOAF" jam, this version then moves beyond, breaking into a "Days Between" jam, and an excellent and extended "If I Only Had A Brain" jam with strange lyrics from Mike and Trey. One of the best "Birds."   
-  
-[Jesus Just Left Chicago](<https://phish.net/jamcharts/song/jesus-just-left-chicago>) \- Very easy going and relaxed feel to this version until the ending when the band cranks it up.   
-  
-[Simple](<https://phish.net/jamcharts/song/simple>) \- This version ends akin to Coil, with each member of the band having left the stage until only Page was left, soloing.   
+[Wolfman's Brother](<https://phish.net/jamcharts/song/wolfmans-brother>) \- Extended funk section which continues until 12:00 when the jam loosens into rocking mode and > to "Johnny B. Goode."   
 
   
 **Show Notes:**  
   
-Birds included a Days Between jam from Page and Mike and several If I Only Had a
-Brain teases from Trey. Birds subsequently featured strange lyrics from Mike and
-Trey, including an _Uno_ reference. During Meatstick, Trey and Mike put down
-their instruments, came to the front of the stage and taught the crowd The
-Meatstick Dance. Simple ended akin to Coil, with each member of the band leaving
-the stage until only Page was left. At the beginning of the encore, Fish came
-out holding the Electrolux vacuum and the band launched into Terrapin (first
-since July 11, 1996, or 212 shows).  
-via [phish.net][12]
-
-   [12]: <https://phish.net>
+This single-set performance was part of the 2nd annual Doctor Music Festival
+that also featured Blues Traveler, Alice Cooper, Megadeth, Jim Rose, and
+Smashing Pumpkins. Trey teased Lazy in Johnny B. Goode. YEM contained a
+Wolfman's Brother tease from Trey and the vocal jam was partially based on I
+Wish.  
+via
 
 
   
   
-Listen now at [Phish.in!](fhttps://phish.in/{setlist['showdate']})  
+Listen now at [Phish.in!](https://phish.in/1997-07-11)  
   
 ---  
-**[Phish](http://phish.net/setlists/phish)**, Wednesday 07/08/1998 (23 years ago)  **[Zeleste][13], Barcelona, , Spain**
+**[Phish](http://phish.net/setlists/phish)**, Thursday 07/11/1996 (25 years ago)  **[Shepherd's Bush Empire][3], London, , England**
 
-   [13]: <https://phish.net/venue/12/Zeleste>
-
-  
-[Gap Chart](https://phish.net/setlists/gap-chart/phish-july-08-1998-zeleste-barcelona-spain.html), Tour: 1998 Summer European Tour
-  
-  
- Set 1  : [ The Moma Dance ](<https://phish.net/song/the-moma-dance>) , [ Bathtub Gin ](<https://phish.net/song/bathtub-gin>) , [ Punch You in the Eye ](<https://phish.net/song/punch-you-in-the-eye>) , [ Beauty of My Dreams ](<https://phish.net/song/beauty-of-my-dreams>) , [ Frankenstein ](<https://phish.net/song/frankenstein>) , [ Guyute ](<https://phish.net/song/guyute>) , [ Run Like an Antelope ](<https://phish.net/song/run-like-an-antelope>)
-
-Set 2  : [ Wilson ](<https://phish.net/song/wilson>) > [ Birds of a Feather ](<https://phish.net/song/birds-of-a-feather>) , [ Dirt ](<https://phish.net/song/dirt>) > [ Piper ](<https://phish.net/song/piper>) , [ Sleeping Monkey ](<https://phish.net/song/sleeping-monkey>) ^1  , [ Ghost ](<https://phish.net/song/ghost>) -> [ Johnny B. Goode ](<https://phish.net/song/johnny-b-goode>)
-
-Encore  : [ Julius ](<https://phish.net/song/julius>)
-
-[1] ¡Ole Ole Ole! chant from Trey.  
-
+   [3]: <https://phish.net/venue/205/Shepherd%27s_Bush_Empire>
 
   
+[Gap Chart](https://phish.net/setlists/gap-chart/phish-july-11-1996-shepherds-bush-empire-london-england.html), Tour: 1996 Summer European Tour
   
- **Jamchart Notes:**
+  
+ Set 1  : [ Runaway Jim ](<https://phish.net/song/runaway-jim>) , [ Cavern ](<https://phish.net/song/cavern>) > [ Reba ](<https://phish.net/song/reba>) ^1  , [ I Didn't Know ](<https://phish.net/song/i-didnt-know>) , [ Sparkle ](<https://phish.net/song/sparkle>) , [ Stash ](<https://phish.net/song/stash>) , [ Scent of a Mule ](<https://phish.net/song/scent-of-a-mule>) , [ Sample in a Jar ](<https://phish.net/song/sample-in-a-jar>)
+
+Set 2  : [ Harry Hood ](<https://phish.net/song/harry-hood>) > [ Bouncing Around the Room ](<https://phish.net/song/bouncing-around-the-room>) > [ Also Sprach Zarathustra ](<https://phish.net/song/also-sprach-zarathustra>) > [ Maze ](<https://phish.net/song/maze>) , [ The Lizards ](<https://phish.net/song/the-lizards>) , [ Hold Your Head Up ](<https://phish.net/song/hold-your-head-up>) > [ Terrapin ](<https://phish.net/song/terrapin>) > [ Hold Your Head Up ](<https://phish.net/song/hold-your-head-up>) , [ You Enjoy Myself ](<https://phish.net/song/you-enjoy-myself>) , [ Hello My Baby ](<https://phish.net/song/hello-my-baby>) ^2 
+
+Encore  : [ A Day in the Life ](<https://phish.net/song/a-day-in-the-life>)
+
+[1] No whistling.  
+[2] Without amplification.  
+
 
   
-[The Moma Dance](<https://phish.net/jamcharts/song/the-moma-dance>) \- Strong playing in the early section, as is the case for many '98 renditions of "Moma". The jam segment is extended and has some nice, ascending melodic playing in the last few minutes. Outstanding version for this period.   
   
-[Bathtub Gin](<https://phish.net/jamcharts/song/bathtub-gin>) \- A very nice "Type I" jam mellows into some quiet variations on the "Gin" theme, and then migrates to lush, ambient space.   
+ 
 
   
 **Show Notes:**  
   
-Frankenstein was preceded by a Frankie Says tease by Fish. After the
-Frankenstein, Trey said the band had been waiting and waiting to play some Edgar
-Winter in Spain and that this was their chance, adding that they planned on
-playing a lot more Edgar Winter as the night went on. The band subsequently
-teased Edgar Winter's Free Ride. Sleeping Monkey included ¡Ole Ole Ole! chants
-from Trey and a stage appearance by Beatriz (whom Trey had met in a bar the
-night before) from Chile. Sleeping Monkey was her favorite song, so Trey
-dedicated it to her and she danced while the band played. This three-show run in
-Barcelona was originally scheduled for Bikini Club in Barcelona, but was moved
-to Zeleste when ticket demand greatly exceeded supply for the original venue.  
-via [phish.net][14]
-
-   [14]: <https://phish.net>
+Reba did not have the whistling ending. Hello My Baby was performed without
+amplification.  
+via
 
 
   
   
-Listen now at [Phish.in!](fhttps://phish.in/{setlist['showdate']})  
+Listen now at [Phish.in!](https://phish.in/1996-07-11)  
   
 ---  
-**[Phish](http://phish.net/setlists/phish)**, Friday 07/08/1994 (27 years ago)  **[Great Woods][15], Mansfield, MA, USA**
+**[Phish](http://phish.net/setlists/phish)**, Saturday 07/11/1992 (29 years ago)  **[Garden State Arts Center][4], Holmdel, NJ, USA**
 
-   [15]: <https://phish.net/venue/214/Great_Woods_Center_for_the_Performing_Arts>
+   [4]: <https://phish.net/venue/210/Garden_State_Arts_Center>
 
   
-[Gap Chart](https://phish.net/setlists/gap-chart/phish-july-08-1994-great-woods-center-for-the-performing-arts-mansfield-ma-usa.html), Tour: 1994 Summer Tour
+[Gap Chart](https://phish.net/setlists/gap-chart/phish-july-11-1992-garden-state-arts-center-holmdel-nj-usa.html), Tour: 1992 Summer U.S. Tour
   
   
- Set 1  : [ Llama ](<https://phish.net/song/llama>) ^1  -> [ NO2 ](<https://phish.net/song/no2>) ^2  > [ The Lizards ](<https://phish.net/song/the-lizards>) > [ Tela ](<https://phish.net/song/tela>) > [ Wilson ](<https://phish.net/song/wilson>) > [ AC/DC Bag ](<https://phish.net/song/acdc-bag>) > [ Colonel Forbin's Ascent ](<https://phish.net/song/colonel-forbins-ascent>) > [ Fly Famous Mockingbird ](<https://phish.net/song/fly-famous-mockingbird>) > [ The Sloth ](<https://phish.net/song/the-sloth>) > [ McGrupp and the Watchful Hosemasters ](<https://phish.net/song/mcgrupp-and-the-watchful-hosemasters>) > [ Divided Sky ](<https://phish.net/song/divided-sky>)
-
-Set 2  : [ Rift ](<https://phish.net/song/rift>) > [ Sample in a Jar ](<https://phish.net/song/sample-in-a-jar>) , [ Reba ](<https://phish.net/song/reba>) ^3  , [ Yerushalayim Shel Zahav ](<https://phish.net/song/yerushalayim-shel-zahav>) > [ It's Ice ](<https://phish.net/song/its-ice>) > [ Stash ](<https://phish.net/song/stash>) , [ You Enjoy Myself ](<https://phish.net/song/you-enjoy-myself>) -> [ Frankenstein ](<https://phish.net/song/frankenstein>) > [ You Enjoy Myself ](<https://phish.net/song/you-enjoy-myself>) , [ Julius ](<https://phish.net/song/julius>) > [ Golgi Apparatus ](<https://phish.net/song/golgi-apparatus>)
-
-Encore  : [ Nellie Kane ](<https://phish.net/song/nellie-kane>) > [ Cavern ](<https://phish.net/song/cavern>)
-
-[1] Unfinished.  
-[2] Fish on vacuum.  
-[3] No whistling.  
+ Set 1  : [ The Landlady ](<https://phish.net/song/the-landlady>) , [ Runaway Jim ](<https://phish.net/song/runaway-jim>) , [ Foam ](<https://phish.net/song/foam>) , [ Sparkle ](<https://phish.net/song/sparkle>) , [ Stash ](<https://phish.net/song/stash>) , [ The Squirming Coil ](<https://phish.net/song/the-squirming-coil>) , [ Cavern ](<https://phish.net/song/cavern>) > [ Vacuum Solo ](<https://phish.net/song/vacuum-solo>) > [ Cavern ](<https://phish.net/song/cavern>) , [ You Enjoy Myself ](<https://phish.net/song/you-enjoy-myself>) , [ Suzy Greenberg ](<https://phish.net/song/suzy-greenberg>)
 
 
   
   
- **Jamchart Notes:**
-
-  
-[Reba](<https://phish.net/jamcharts/song/reba>) \- Great jam featuring "Manteca" teasing and super Trey. After the band disassembles their sound, soaring play is once again restored as Trey whips through a series of nasty licks. Arguably a > into "Yerushalayim Shel Zahav" in lieu of whistling.   
-  
-[It's Ice](<https://phish.net/jamcharts/song/its-ice>) \- A little chaotic, but some really great Mike action on this one. > to an excellent "Stash."   
-  
-[Stash](<https://phish.net/jamcharts/song/stash>) \- A Live One version. Jam doesn't get too far out there, but there is a repetitious section beginning at 7:00 that ratchets up the tension considerably. The ending section is drawn out, furthering this effect.   
-  
-[You Enjoy Myself](<https://phish.net/jamcharts/song/you-enjoy-myself>) \- "YEM" -> "Frankenstein" -> "YEM."   
-  
-[Frankenstein](<https://phish.net/jamcharts/song/frankenstein>) \- -> in from "YEM." "Frankenstein" is sandwiched in the "YEM" jam.   
-  
-[You Enjoy Myself](<https://phish.net/jamcharts/song/you-enjoy-myself>) \- -> in from "Frankenstein" which is sandwiched in this "YEM." "Frankenstein" tease from Mike in the B&D.;   
+ 
 
   
 **Show Notes:**  
   
-
-
-The first set included the complete Gamehendge saga, including narration between
-songs from NO2 through Divided Sky. Llama was unfinished. NO2 featured Fish on
-vacuum. Reba contained Manteca teases and did not have the whistling ending.
-This version of Stash appears on _A Live One_. Mike teased Flash Light and
-Frankenstein during the second You Enjoy Myself.
-
-  
-via [phish.net][16]
-
-   [16]: <https://phish.net>
+This show was part of the H.O.R.D.E. tour that also featured Aquarium Rescue
+Unit, Blues Traveler, The Spin Doctors and Widespread Panic. Several "official"
+H.O.R.D.E. dancers took the stage during The Landlady to dance with Trey and
+Mike. Landlady contained an Oye Como Va tease from Trey. During the tramps
+segment of YEM, an extra tramp and microphone were brought out for John Popper.
+On his first jump, though, Popper jumped right through the trampoline.
+Embarrassed, he left the stage.  
+via
 
 
   
   
-Listen now at [Phish.in!](fhttps://phish.in/{setlist['showdate']})  
+Listen now at [Phish.in!](https://phish.in/1992-07-11)  
   
 ---  
+**[Phish](http://phish.net/setlists/phish)**, Thursday 07/11/1991 (30 years ago)  **[Battery Park][5], Burlington, VT, USA**
+
+   [5]: <https://phish.net/venue/607/Battery_Park>
+
   
-**[Phish](https://phish.net/setlists/phish-july-08-1990-23-east-caberet-ardmore-pa-usa.html)**, 1990-07-08 **23 East Caberet, Ardmore, PA, USA**
+[Gap Chart](https://phish.net/setlists/gap-chart/phish-july-11-1991-battery-park-burlington-vt-usa.html), Tour: 1991 Giant Country Horns Summer Tour
+  
+  
+ Set 1  : [ The Oh Kee Pa Ceremony ](<https://phish.net/song/the-oh-kee-pa-ceremony>) > [ Suzy Greenberg ](<https://phish.net/song/suzy-greenberg>) ^1  > [ Divided Sky ](<https://phish.net/song/divided-sky>) ^1  , [ Flat Fee ](<https://phish.net/song/flat-fee>) ^1  , [ My Sweet One ](<https://phish.net/song/my-sweet-one>) , [ Stash ](<https://phish.net/song/stash>) ^1  , [ The Lizards ](<https://phish.net/song/the-lizards>) ^1  , [ The Landlady ](<https://phish.net/song/the-landlady>) ^1 
+
+Set 2  : [ Dinner and a Movie ](<https://phish.net/song/dinner-and-a-movie>) ^1  > [ Cavern ](<https://phish.net/song/cavern>) ^1  > [ The Man Who Stepped Into Yesterday ](<https://phish.net/song/the-man-who-stepped-into-yesterday>) > [ Avenu Malkenu ](<https://phish.net/song/avenu-malkenu>) ^1  > [ The Man Who Stepped Into Yesterday ](<https://phish.net/song/the-man-who-stepped-into-yesterday>) > [ Mike's Song ](<https://phish.net/song/mikes-song>) ^1  > [ I Am Hydrogen ](<https://phish.net/song/i-am-hydrogen>) ^1  > [ Weekapaug Groove ](<https://phish.net/song/weekapaug-groove>) ^1  , [ Hold Your Head Up ](<https://phish.net/song/hold-your-head-up>) > [ Touch Me ](<https://phish.net/song/touch-me>) ^2  > [ Hold Your Head Up ](<https://phish.net/song/hold-your-head-up>) , [ Frankenstein ](<https://phish.net/song/frankenstein>) ^1 
+
+Encore  : [ Contact ](<https://phish.net/song/contact>) ^1  > [ Big Black Furry Creature from Mars ](<https://phish.net/song/big-black-furry-creature-from-mars>) ^1 
+
+[1] Giant Country Horns.  
+[2] Phish debut; Giant Country Horns.  
+
 
   
   
-Setlist: https://phish.net/setlists/phish-july-08-1990-23-east-caberet-ardmore-pa-usa.html  
-  
-Tour: 1990 Tour  
-  
-Show Notes: 
+ 
 
   
+**Show Notes:**  
+  
+This free show featured The Giant Country Horns for all songs except Oh Kee Pa,
+My Sweet One, both TMWSIYs, and both HYHUs. This show also marked the Phish
+debut of Touch Me. Frankenstein was played for the first time since December 3,
+1989 (217 shows) and Flat Fee was played for the first time since September 13,
+1988 (347 shows). Fish was introduced before Touch Me as Henrietta and, several
+seconds later, the Lizard Queen.  
+via
+
+
+  
+  
+Listen now at [Phish.in!](https://phish.in/1991-07-11)  
   
 ---  
+**[Phish](http://phish.net/setlists/phish)**, Monday 07/11/1988 (33 years ago)  **[Sam's Tavern][6], Burlington, VT, USA**
+
+   [6]: <https://phish.net/venue/504/Sam%27s_Tavern>
+
   
-**[Phish](https://phish.net/setlists/phish-july-08-1988-the-front-burlington-vt-usa.html)**, 1988-07-08 **The Front, Burlington, VT, USA**
+[Gap Chart](https://phish.net/setlists/gap-chart/phish-july-11-1988-sams-tavern-burlington-vt-usa.html), Tour: 1988 Tour
+  
+  
+ Set 1  : [ Satin Doll ](<https://phish.net/song/satin-doll>) , [ Suzy Greenberg ](<https://phish.net/song/suzy-greenberg>) , [ The Curtain With ](<https://phish.net/song/the-curtain-with>) , [ Funky Bitch ](<https://phish.net/song/funky-bitch>) , [ Fire ](<https://phish.net/song/fire>) , [ Bold As Love ](<https://phish.net/song/bold-as-love>) , [ Colonel Forbin's Ascent ](<https://phish.net/song/colonel-forbins-ascent>) > [ Fly Famous Mockingbird ](<https://phish.net/song/fly-famous-mockingbird>) , [ Golgi Apparatus ](<https://phish.net/song/golgi-apparatus>) , [ Alumni Blues ](<https://phish.net/song/alumni-blues>) > [ Letter to Jimmy Page ](<https://phish.net/song/letter-to-jimmy-page>) ^1  > [ Alumni Blues ](<https://phish.net/song/alumni-blues>)
+
+Encore  : [ McGrupp and the Watchful Hosemasters ](<https://phish.net/song/mcgrupp-and-the-watchful-hosemasters>) ^2  > [ La Grange ](<https://phish.net/song/la-grange>)
+
+[1] Fish drum solo.  
+[2] Fish on trombone.  
+
 
   
   
-Setlist: https://phish.net/setlists/phish-july-08-1988-the-front-burlington-vt-usa.html  
-  
-Tour: 1988 Tour  
-  
-Show Notes: 
+ 
 
   
+**Show Notes:**  
+  
+Trey graduated from college on this date and treated the crowd to a killer
+Alumni Blues. Letter to Jimmy Page featured a drum solo from Fish. Suzy
+Greenberg included Dave's Energy Guide teases. Trey referred to the "With"
+portion of The Curtain With as "A Living Nightmare." McGrupp featured Fish on
+trombone. The listed encore may actually be the start of the second set; the
+first set appeared to end after Alumni given Page's comments.  
+via
+
+
+  
+  
+Listen now at [Phish.in!](https://phish.in/1988-07-11)  
   
 ---  
   
@@ -419,54 +277,38 @@ Show Notes:
 ## [Trey Anastasio](http://phish.net/setlists/trey)    
 ---  
   
-**[Trey, Mike and The Duo (G.R.A.B.)](https://phish.net/setlists/trey-anastasio-july-08-2006-darien-lake-performing-arts-center-darien-center-ny-usa.html)**, 2006-07-08 **Darien Lake, Darien Center, NY, USA**
+**[Trey, Mike and The Duo (G.R.A.B.)](https://phish.net/setlists/trey-anastasio-july-11-2006-ford-pavilion-at-montage-mountain-scranton-pa-usa.html)**, 2006-07-11 **Ford Pavilion at Montage Mountain, Scranton, PA, USA**
 
   
   
-Setlist: https://phish.net/setlists/trey-anastasio-july-08-2006-darien-lake-performing-arts-center-darien-center-ny-usa.html  
+Setlist: https://phish.net/setlists/trey-anastasio-july-11-2006-ford-pavilion-at-montage-mountain-scranton-pa-usa.html  
   
 Tour: G.R.A.B. - Summer 2006 Tour  
   
-Show Notes: [Benevento/Russo Duo][17] opened, [Phil Lesh & Friends][18] closed. "Uncle
-Albert" featured Trey on megaphone. "Who Are You?" featured Mike on acoustic
-guitar.
+Show Notes: [Benevento/Russo Duo][7] opened, [Phil Lesh & Friends][8] closed. After the
+debut of "Motion" Trey noted that "you know, we really fucked that up!" Trey
+dedicated "Happy Birthday" to a fan in the audience and said that they would
+play "the most beautiful version of 'Happy Birthday' ever played." "Shine"
+contained a "Happy Birthday" tease. Trey sat in with Phil & Friends for the
+entire second set and encore.
 
-   [17]: <http://beneventorussoduo.com/>
-   [18]: <http://www.philzone.com/>
-
-  
-  
----  
-  
-**[Trey Anastasio Band](https://phish.net/setlists/trey-anastasio-band-july-08-2005-pnc-bank-arts-center-holmdel-nj-usa.html)**, 2005-07-08 **PNC Bank Arts Center, Holmdel, NJ, USA**
-
-  
-  
-Setlist: https://phish.net/setlists/trey-anastasio-band-july-08-2005-pnc-bank-arts-center-holmdel-nj-usa.html  
-  
-Tour: TAB - 70 Volt Parade Summer 2005 Zooma Tour  
-  
-Show Notes: This show was to be part of the Zooma Tour co-headlined by Trey Anastasio's
-quintet and Ben Harper and the Innocent Criminals with rotating supporting acts.
-The tour was cancelled reportedly due to low ticket sales.
+   [7]: <http://beneventorussoduo.com/>
+   [8]: <http://www.philzone.com/>
 
   
   
 ---  
   
-  
-## [Mike Gordon](http://phish.net/setlists/mike)    
----  
-  
-**[Mike Gordon](https://phish.net/setlists/mike-gordon-july-08-2018-grove-2-chicago-il-usa.html)**, 2018-07-08 **Grove 2, Chicago, IL, USA**
+**[Trey Anastasio Band](https://phish.net/setlists/trey-anastasio-july-11-2001-open-air-theatre-san-diego-ca-usa.html)**, 2001-07-11 **Open Air Theatre, San Diego, CA, USA**
 
   
   
-Setlist: https://phish.net/setlists/mike-gordon-july-08-2018-grove-2-chicago-il-usa.html  
+Setlist: https://phish.net/setlists/trey-anastasio-july-11-2001-open-air-theatre-san-diego-ca-usa.html  
   
-Tour: Not Part of a Tour  
+Tour: TAB - The Octet  
   
-Show Notes: This performance will be part of the Live in Lincoln Park music frestival.
+Show Notes: Trey dedicated "Last Tube" to the surfers catching the "last tube" of the day.
+This show marked the debut of "When."
 
   
   
@@ -476,43 +318,70 @@ Show Notes: This performance will be part of the Live in Lincoln Park music fres
 ## [Page McConnell](http://phish.net/setlists/page)    
 ---  
   
-**[Page McConnell](https://phish.net/setlists/page-mcconnell-july-08-2007-high-sierra-music-festival-quincy-ca-usa.html)**, 2007-07-08 **High Sierra Music Festival, Quincy, CA, USA**
+**[Page McConnell](https://phish.net/setlists/page-mcconnell-july-11-2007-aladdin-theatre-portland-or-usa.html)**, 2007-07-11 **Aladdin Theatre, Portland, OR, USA**
 
   
   
-Setlist: https://phish.net/setlists/page-mcconnell-july-08-2007-high-sierra-music-festival-quincy-ca-usa.html  
+Setlist: https://phish.net/setlists/page-mcconnell-july-11-2007-aladdin-theatre-portland-or-usa.html  
   
 Tour: Page McConnell Spring & Summer 2007 Tour  
   
-Show Notes: This solo performance by Page was a workshop at the [High Sierra Music
-Festival][19] that featured Q&A sessions with audience members between songs.
-"The Squirming Coil" contained only the outro piano solo segment.
-
-   [19]: <http://www.highsierramusic.com/>
+Show Notes: Page peformed "Strange Design" solo on piano.
 
   
   
 ---  
   
-**[Page McConnell](https://phish.net/setlists/page-mcconnell-july-08-2007-high-sierra-music-festival-quincy-ca-usa-2.html)**, 2007-07-08 **High Sierra Music Festival, Quincy, CA, USA**
+  
+## [Other](http://phish.net/setlists)    
+---  
+  
+**[Phil Lesh & Friends](https://phish.net/setlists/guest-appearance-july-11-2006-ford-pavilion-at-montage-mountain-scranton-pa-usa.html)**, 2006-07-11 **Ford Pavilion at Montage Mountain, Scranton, PA, USA**
 
   
   
-Setlist: https://phish.net/setlists/page-mcconnell-july-08-2007-high-sierra-music-festival-quincy-ca-usa-2.html  
+Setlist: https://phish.net/setlists/guest-appearance-july-11-2006-ford-pavilion-at-montage-mountain-scranton-pa-usa.html  
   
-Tour: Page McConnell Spring & Summer 2007 Tour  
+Tour: Not Part of a Tour  
   
-Show Notes: This performance was part of the [High Sierra Music Festival][20] that also
-included [Leftover Salmon][21], [The Disco Biscuits][22], [The Slip][23] and
-[Tea Leaf Green][24]. "Walk the Proud Land" ([Bob Marley & The Wailers][25])
-featured a "Heavy Rotation" tease from Jared.
+Show Notes: [Benevento/Russo Duo][9] opened, [G.R.A.B. closed][10]. Trey sat in on guitar
+and vocals for the entire second set and encore in place of Barry Sless. Barry
+Sless re-joined the band for "GDTRFB."
 
-   [20]: <http://www.highsierramusic.com/>
-   [21]: <http://en.wikipedia.org/wiki/Leftover_Salmon>
-   [22]: <http://en.wikipedia.org/wiki/Disco_Biscuits>
-   [23]: <http://en.wikipedia.org/wiki/The_Slip_(band)>
-   [24]: <http://en.wikipedia.org/wiki/Tea_Leaf_Green>
-   [25]: <http://en.wikipedia.org/wiki/Bob_Marley_%26_The_Wailers>
+   [9]: <http://beneventorussoduo.com/>
+   [10]: <http://phish.net/sideshows/trey-anastasio-band/?showid=1318120921>
+
+  
+  
+---  
+  
+**[Les Claypool's Fancy Band](https://phish.net/setlists/guest-appearance-july-11-2005-variety-playhouse-atlanta-ga-usa.html)**, 2005-07-11 **Variety Playhouse, Atlanta, GA, USA**
+
+  
+  
+Setlist: https://phish.net/setlists/guest-appearance-july-11-2005-variety-playhouse-atlanta-ga-usa.html  
+  
+Tour: Not Part of a Tour  
+  
+Show Notes: Trey joined [Les Claypool's Fancy Band][11] on guitar for the listed songs. This
+setlist is unconfirmed.
+
+   [11]: <http://en.wikipedia.org/wiki/Les_Claypool's_Fancy_Band>
+
+  
+  
+---  
+  
+**[Robert Randolph and The Family Band](https://phish.net/setlists/guest-appearance-july-11-2002-bimbos-365-club-san-francisco-ca-usa.html)**, 2002-07-11 **Bimbo’s 365 Club, San Francisco, CA, USA**
+
+  
+  
+Setlist: https://phish.net/setlists/guest-appearance-july-11-2002-bimbos-365-club-san-francisco-ca-usa.html  
+  
+Tour: Not Part of a Tour  
+  
+Show Notes: Page sat in on organ for "I Don't Know What You Come to Do" and the "Papa Was a
+Rollin' Stone" encore. The Dirty Dozen Brass Band opened this gig.
 
   
   
