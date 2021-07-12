@@ -55,8 +55,10 @@ class TIPH:
                             help='tiph ISO formatted date other than today\'s date')
         parser.add_argument('-n', '--emails', nargs='+',
                             help='list of emails to send tiph notifications. defaults to emails field in .env.json.', required=False)
-        parser.add_argument('-s', '--subreddits', nargs='+',
-                            help='list of subreddits to post tiph to. Defaults to subreddits field in .env.json', required=False)
+        parser.add_argument('-s', '--subreddit',
+                            help='subreddit to post tiph to. Defaults to subreddit field in .env.json', required=False)
+        parser.add_argument('-c', '--crosspost',
+                            help="The subreddit to crosspost to.")
         parser.add_argument(
             '-u', '--redditor', help='the redditor you want to send a reddit notification for this tiph post.')
 
@@ -75,10 +77,18 @@ class TIPH:
         else:
             self.emails = args.emails
 
-        if args.subreddits is None:
-            self.subreddits = self.creds['subreddits']
+        if args.subreddit is None:
+            self.subreddit = self.creds['subreddit']
         else:
-            self.subreddits = args.subreddits
+            self.subreddit = args.subreddit
+
+        if args.crosspost is None:
+            if self.creds['crosspost']:
+                self.crosspost = self.creds['crosspost']
+            else:
+                self.crosspost = None
+        else:
+            self.crosspost = args.crosspost
 
         if args.redditor is None:
             self.redditor = self.creds['redditor']
@@ -279,19 +289,21 @@ class TIPH:
                              refresh_token=self.creds['refresh_token'])
         reddit.validate_on_submit = True
 
-        for subr in self.subreddits:
-            subreddit = reddit.subreddit(subr)
+        subreddit = reddit.subreddit(self.subreddit)
 
-            self.logger.info(
-                f"call subreddit.submit for {subr} with {self.title}")
-            submission = subreddit.submit(self.title, selftext=selftext)
+        self.logger.info(
+            f"call subreddit.submit for {self.subreddit} with {self.title}")
+        submission = subreddit.submit(self.title, selftext=selftext)
 
-            self.logger.info(
-                f"sending Reddit message to {self.creds['redditor']}")
-            self.message = f"tiph bot submitted {submission.title} ({submission.id}) to r/{subr}. Check it out! {submission.shortlink}"
-            reddit.redditor(self.redditor).message(self.title, self.message)
+        if self.crosspost is not None:
+            submission.crosspost(self.crosspost, send_replies=False)
 
-            self.logger.info(f"{self.title} post to r/{subr} complete")
+        self.logger.info(
+            f"sending Reddit message to {self.creds['redditor']}")
+        self.message = f"tiph bot submitted {submission.title} ({submission.id}) to r/{self.subreddit}. Check it out! {submission.shortlink}"
+        reddit.redditor(self.redditor).message(self.title, self.message)
+
+        self.logger.info(f"{self.title} post to r/{self.subreddit} complete")
 
         if self.skip_email is False:
             self.send_email()
