@@ -249,13 +249,13 @@ class TIPH:
         and HTML2Text to massage the html and convert to Markdown for 
         reddit submissions.
         """
+
+        setlistnotes = setlistnotes.replace('via', '')
         soup = BeautifulSoup(setlistnotes, 'html.parser')
 
         for link in soup.find_all('a', href=True):
             if link.get_text() == 'phish.net':
                 link.extract()
-
-        soup.text.replace('via', '')
 
         h2t = html2text.HTML2Text()
         h2t.protect_links = True
